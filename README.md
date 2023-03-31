@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif)
+![](https://komarev.com/ghpvc/?username=kingsotn)
+
 <!--
 **kingsotn/kingsotn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
