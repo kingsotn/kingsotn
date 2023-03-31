@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif)
+<img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/200w_d.gif">
+
 ![](https://komarev.com/ghpvc/?username=kingsotn)
 
 <!--
